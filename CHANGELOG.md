@@ -1,6 +1,6 @@
 ### 1.1.5 (next)
 
-* Your contribution here.
+* Add rfid.from_hex and rfid.from_ascii to print rfid on barcodes - [@ryanmk54](https://github.com/ryanmk54)
 
 ### 1.1.4 (10/08/2022)
 
